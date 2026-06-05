@@ -1,0 +1,13 @@
+{
+  "tasks": [
+    {
+      "title": "Eat",
+      "description": "Eating is best",
+      "priority": "medium",
+      "status": "done",
+      "dueDate": "2026-06-06",
+      "id": "uPHEcFQLTSg"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
